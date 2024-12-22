@@ -1,2 +1,4 @@
-# earthquake-clustering
-Clustering Earthquake Incidences: Evaluating Algorithms for Optimal Pattern Recognition
+# Clustering Earthquake Incidences: Evaluating Algorithms for Optimal Pattern Recognition
+A study by Serhet Gökdemir, under the Data Science Traineeship Program by Epam SYSTEMS.
+[Visit My Portfolio](https://serhetgokdemir.github.io)<br><br>
+This project involves clustering earthquake occurrences to identify meaningful patterns in seismic data. Using multiple algorithms, including K-Means, Gaussian Mixture Models, Agglomerative Clustering, and DBSCAN, I evaluated their performance through internal and external metrics. The analysis highlights the strengths and limitations of each method, with a final visualization of cluster distributions on a world map. This study demonstrates the application of clustering techniques to uncover insights from geospatial data, emphasizing pattern recognition in seismic activities.
